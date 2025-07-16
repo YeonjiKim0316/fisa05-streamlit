@@ -1,0 +1,7 @@
+ddd
+
+# 패키지를 전달
+pip freeze > requirements.txt
+
+# 받은 패키지를 설치
+pip install -r requirements.txt
